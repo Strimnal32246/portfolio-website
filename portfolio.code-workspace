@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "portfolio-website",
+		"path": "."
+	},
+	{
+		"name": "Count10",
+		"path": "/Users/lambda_school_loaner_57/Downloads/Count10"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Count10"
+  }
+}
